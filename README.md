@@ -125,4 +125,3 @@ Execute the program
 
 ![OUTPUT](./img1.png)
 
-![OUTPUT](./img2.png)
