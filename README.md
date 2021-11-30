@@ -122,3 +122,7 @@ Execute the program
 </html>
 ~~~
 # OUPUT
+
+![OUTPUT](./img1.png)
+# OUTPUT
+![OUTPUT](./img2.png)
