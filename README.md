@@ -25,8 +25,8 @@ Execute the program
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="white">
       <img src="logo.png">
           <tr>
-            <th colspan="2"> NAME: Y.SHAVEDHA
-            <th colspan="2"> REF NO:21500429
+            <th colspan="2"> NAME: Y SHAVEDHA
+            <th colspan="2"> REF NO: 21500429
             <th colspan="6"> DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</th>
          </tr>
          <tr>
@@ -53,14 +53,14 @@ Execute the program
              <td>Fundamentals of Web technology</td>
              <td>Linear Algebra and Python Lab</td></td>
              <td>Linear Algebra and Python Lab</td>
-         <th>Mentoring</th>
+         <th>MENTORING</th>
              <td>Maths for AI</td>
              <td>Maths for AI</td>
  </tr>
  <tr>
              <td>Tuesday</td>
-             <td>Soft Skills</td>
-             <td>Soft Skills</td>
+             <td>Soft skills</td>
+             <td>Soft skills</td>
              <td>Engineering Design and modeling</td>
              <td>Engineering Design and modeling</td>
               <th>Lunch break</th>
@@ -69,11 +69,11 @@ Execute the program
  </tr>
  <tr>
              <td>Wednesday</td>
-             <td>-</td>
-             <td>-</td>
+             <td><center>-</center></td>
+             <td><center>-</center></td>
              <td>Python Programming </td>
              <td>Python Programming</td>
-             <th>Lunch Break</th>
+              <th>Lunch break</th>
              <td>Fundamentals of Web technology</td>
              <td>Fundamentals of Web technology</td>
  </tr>
@@ -89,11 +89,11 @@ Execute the program
  </tr>
  <tr>
              <td>Friday</td>
-             <td>Environmental science</td>
-             <td>Environmental science</td>
+             <td>EVS</td>
+             <td>EVS</td>
              <td>Maths for AI </td>
              <td>Maths for AI</td>
-             <th>Lunch break</th>
+             <th>Mentoring-AD1</th>
              <td>Fundamentals of Web technology</td>
              <td>Fundamentals of Web technology</td>
  </tr>
@@ -102,13 +102,12 @@ Execute the program
       </table>
 1.Fundamentals of Web technology(19AI401)-Obed Otto C<br>
 2.Python Programming(19AI301)-Archana S H<br>
-3.Environmental science(19MC802)-Muthupandian P<br>
+3.EVS(19MC802)-Muthupandian P<br>
 4.Maths for AI(19MA220)-Archana S H<br>
 5.Engineering Design and modeling(19AI302)-Sridhar S<br>
-6.Soft skills(19EY701)-Praveen P<br>
-7.Engineering Mechanics and Product Development(19AI301)-Sridhar S<br>
-8.Mentoring-AD1(ECA051-AD)-Archana S H<br>
-9.Linear Algebra and Python Lab(19MA221)-Archana S H<br>
+6.Engineering Mechanics and Product Development(19AI301)-Sridhar S<br>
+7.Mentoring-AD1(ECA051-AD)-Sridhar S<br>
+8.Soft skills - Praveen<br>
       
    </body>
 </html>
