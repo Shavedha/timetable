@@ -124,5 +124,5 @@ Execute the program
 # OUPUT
 
 ![OUTPUT](./img1.png)
-# OUTPUT
+
 ![OUTPUT](./img2.png)
