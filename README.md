@@ -123,5 +123,5 @@ Execute the program
 ~~~
 # OUPUT
 
-![OUTPUT](./img1.png)
+
 
