@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html>
 
@@ -119,8 +120,13 @@ Execute the program
       
    </body>
 </html>
-~~~
-# OUPUT
+```
+
+# OUTPUT
+![OUTPUT](./img1.png)
+![OUTPUT](./img2.png)
+![OUTPUT](./validator.png)
+
 
 
 
