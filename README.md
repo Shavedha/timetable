@@ -127,6 +127,7 @@ Execute the program
 ![OUTPUT](./img2.png)
 ![OUTPUT](./validator.png)
 
-
+# RESULT
+Thus a coding is executed for displaying a timetable
 
 
